@@ -16,7 +16,7 @@ int main() {
     scanf(" %c", &grade);
 
     printf("Age: %d\n", age);
-    printf("Height: %.2f\n", height); // Displays height with exactly 2 decimal places [80]
+    printf("Height: %.2f\n", height); // Displays height with exactly 2 decimal places
     printf("Grade: %c\n", grade);
 
     return 0;
