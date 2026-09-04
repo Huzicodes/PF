@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("\nExpected Output:\n");
     printf("Name\tAge\tGrade\n");
     printf("Ali\t20\tA\n");
     printf("Sara\t21\tB\n");
